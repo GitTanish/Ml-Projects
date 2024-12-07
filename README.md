@@ -1,2 +1,1 @@
-# Ml-Projects
-Project repo-1 
+I'm learning ml and will be uploading projects in this repo based on it
