@@ -1,2 +1,1 @@
-I'm learning ml and will be uploading projects in this repo based on it.
-Wuba luba dub dub
+Building this Multiplant disease detection system and Will be deploying this in Google cloud
